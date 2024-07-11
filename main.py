@@ -1,4 +1,4 @@
-#How to use a computer totell what to do in the morning
+#How to use a computer to tell what to do in the morning
 Todo_list_Day = ["'Wakeup "," Brush your teeth'","Have breakfast"]# This is the day list
 a = (input("What is the time"))#This will take input of time
 while a != "Day list is done":#Condition + loop is set
